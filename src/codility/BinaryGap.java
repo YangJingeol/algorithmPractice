@@ -1,11 +1,11 @@
 package codility;
 
 public class BinaryGap {
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) {
         int problem = 32;
-        if(problem < 0) {
-            throw new Exception("lower than zero");
-        }
+
+        validationCheck(problem);
+
         String binary = Integer.toBinaryString(problem);
 
         int result = 0;
@@ -27,5 +27,16 @@ public class BinaryGap {
         } else {
             System.out.println(result);
         }
+    }
+
+    public static void validationCheck(int problem) {
+        try {
+            if(problem < 0 ) {
+                throw new Exception("lower than zero");
+            }
+        } catch (Exception e) {
+
+        }
+
     }
 }
