@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37440143-a7e6-4221-9acc-4b9ffd4a2296" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codility/FrogRiverOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/GenomicRangeQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/MaxCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/MissingInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codility/PermCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/Distinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/MinAvgTwoSlice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codility/PassingCars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/ArrayKthNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/BaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/BinaryNextNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/PrintRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/RectanglePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/StringToInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codility/GenomicRangeQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/GenomicRangeQuery.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,68 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/programmers/NumberOfK.java">
+        <entry file="file://$PROJECT_DIR$/src/programmers/BaseballGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codility/MaxCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="2879" column="17" selection-start-line="2879" selection-start-column="11" selection-end-line="2879" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codility/MissingInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codility/PermCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codility/FrogJump.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-              <folding>
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codility/FrogRiverOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="1536">
+              <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,19 +40,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codility/GenomicRangeQuery.java">
+        <entry file="file://$PROJECT_DIR$/src/codility/Distinct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="400">
+              <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codility/MinAvgTwoSlice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-128">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+              <folding>
+                <element signature="e#922#923#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codility/BinaryGap.java">
+        <entry file="file://$PROJECT_DIR$/src/codility/GenomicRangeQuery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="214">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="143" column="29" lean-forward="true" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+              <folding>
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,15 +120,25 @@
         <option value="$PROJECT_DIR$/src/websocket/Test.java" />
         <option value="$PROJECT_DIR$/src/springcamp/JavaNull.java" />
         <option value="$PROJECT_DIR$/src/codility/MaxCounter.kt" />
-        <option value="$PROJECT_DIR$/src/codility/GenomicRangeQuery.java" />
         <option value="$PROJECT_DIR$/src/codility/PermCheck.java" />
         <option value="$PROJECT_DIR$/src/codility/FrogRiverOne.java" />
         <option value="$PROJECT_DIR$/src/codility/MissingInteger.java" />
         <option value="$PROJECT_DIR$/src/codility/MaxCounter.java" />
+        <option value="$PROJECT_DIR$/src/codility/PassingCars.java" />
+        <option value="$PROJECT_DIR$/src/programmers/RectanglePoint.java" />
+        <option value="$PROJECT_DIR$/src/programmers/PrintRectangle.java" />
+        <option value="$PROJECT_DIR$/src/programmers/StringToInt.java" />
+        <option value="$PROJECT_DIR$/src/programmers/ArrayKthNumber.java" />
+        <option value="$PROJECT_DIR$/src/programmers/BinaryNextNumber.java" />
+        <option value="$PROJECT_DIR$/src/programmers/BaseballGame.java" />
+        <option value="$PROJECT_DIR$/src/codility/Distinct.java" />
+        <option value="$PROJECT_DIR$/src/codility/GenomicRangeQuery.java" />
+        <option value="$PROJECT_DIR$/src/codility/MinAvgTwoSlice.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-20" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="958" />
@@ -189,7 +176,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557909311817" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558065497242" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -211,13 +202,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxCounter">
-    <configuration name="FrogRiverOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.FrogRiverOne" />
+  <component name="RunManager" selected="JUnit.MinAvgTwoSlice.test">
+    <configuration name="BaseballGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.BaseballGame" />
       <module name="algorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.*" />
+          <option name="PATTERN" value="programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,21 +229,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.MaxCounter" />
+    <configuration name="BaseballGame.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.*" />
+          <option name="PATTERN" value="programmers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="programmers" />
+      <option name="MAIN_CLASS_NAME" value="programmers.BaseballGame" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.MissingInteger" />
+    <configuration name="Distinct.solutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <extension name="coverage">
         <pattern>
@@ -260,12 +253,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="codility" />
+      <option name="MAIN_CLASS_NAME" value="codility.Distinct" />
+      <option name="METHOD_NAME" value="solutionTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.PermCheck" />
+    <configuration name="MinAvgTwoSlice.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithmPractice" />
       <extension name="coverage">
         <pattern>
@@ -273,17 +269,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="codility" />
+      <option name="MAIN_CLASS_NAME" value="codility.MinAvgTwoSlice" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxCounter" />
-        <item itemvalue="Application.MissingInteger" />
-        <item itemvalue="Application.FrogRiverOne" />
-        <item itemvalue="Application.PermCheck" />
+        <item itemvalue="JUnit.MinAvgTwoSlice.test" />
         <item itemvalue="Application.GenomicRangeQuery" />
+        <item itemvalue="JUnit.Distinct.solutionTest" />
+        <item itemvalue="JUnit.BaseballGame.test" />
+        <item itemvalue="Application.BaseballGame" />
       </list>
     </recent_temporary>
   </component>
@@ -312,11 +312,50 @@
       <option name="project" value="LOCAL" />
       <updated>1556011161492</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="코딩 연습 추가.. 코딜리티 lesson 4">
+      <created>1557909346716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557909346716</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Distinct_solutionTest - 2019.05.16 at 15h 21m 58s.xml">
+      <configuration name="Distinct.solutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 34m 29s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 44m 02s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 45m 02s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 46m 57s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 49m 09s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 54m 17s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 54m 19s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 56m 20s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinAvgTwoSlice_test - 2019.05.17 at 12h 56m 41s.xml">
+      <configuration name="MinAvgTwoSlice.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="958" extended-state="0" />
+    <frame x="-20" y="23" width="1680" height="958" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1984127" />
@@ -350,7 +389,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FrogJump 및 Per,MissingElem 문제 풀이" />
     <MESSAGE value="코딩 연습 추가.. K번째 수 구하기 등.." />
-    <option name="LAST_COMMIT_MESSAGE" value="코딩 연습 추가.. K번째 수 구하기 등.." />
+    <MESSAGE value="코딩 연습 추가.. 코딜리티 lesson 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="코딩 연습 추가.. 코딜리티 lesson 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -378,6 +418,56 @@
           <line>29</line>
           <properties />
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/PassingCars.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programmers/RectanglePoint.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programmers/ArrayKthNumber.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programmers/BaseballGame.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/GenomicRangeQuery.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/GenomicRangeQuery.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/MinAvgTwoSlice.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmers/StringToInt.java</url>
+          <line>3</line>
+          <properties class="programmers.StringToInt" method="solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -525,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codility/GenomicRangeQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codility/PermCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -574,17 +657,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/codility/MaxCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="2879" column="17" selection-start-line="2879" selection-start-column="11" selection-end-line="2879" selection-end-column="17" />
+        <state relative-caret-position="458">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codility/MaxCounter.java">
+    <entry file="file://$PROJECT_DIR$/src/codility/PassingCars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        <state relative-caret-position="157">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/RectanglePoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/PrintRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/StringToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/ArrayKthNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/BinaryNextNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programmers/BaseballGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="143" column="29" lean-forward="true" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/GenomicRangeQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/Distinct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/MinAvgTwoSlice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
